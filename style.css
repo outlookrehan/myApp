@@ -1,0 +1,10 @@
+fieldset {
+    width: 300px;
+    text-align: center;
+    font-style: bold;
+    color: darkgreen;
+    font-size: 1.5em;
+}
+label {
+    color: brown;
+}
